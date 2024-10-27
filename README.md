@@ -1,2 +1,2 @@
 # StudySync
-StudySync project using html and css
+Made a educational website using only HTML and CSS
